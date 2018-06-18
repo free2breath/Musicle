@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:gravity="center"
+
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:gravity="center"
+
+        android:orientation="vertical"
+        android:layout_weight="1.0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_margin="5dp"
+            android:id="@+id/color1"
+            android:background="@color/vk_color1"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color2"
+            android:background="@color/vk_color2"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color3"
+            android:background="@color/vk_color3"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+
+        android:orientation="vertical"
+        android:layout_weight="1.0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_margin="5dp"
+            android:id="@+id/color4"
+            android:background="@color/vk_color4"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color5"
+            android:background="@color/vk_color5"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color6"
+            android:background="@color/vk_color6"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+
+        android:layout_weight="1.0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color7"
+            android:background="@color/vk_color7"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color8"
+            android:background="@color/vk_color8"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+        <View
+            android:layout_margin="5dp"
+
+            android:id="@+id/color9"
+            android:background="@color/vk_color9"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+        </View>
+
+    </LinearLayout>
+
+</LinearLayout>
